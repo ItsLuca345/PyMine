@@ -10,7 +10,7 @@ print("")
 
 Crypto = str(input('Choose between ETC ot BTC:'))
 
-if Crypto == "ETC" or Crypto == "BTC":
+if Crypto == "ETH" or Crypto == "BTC":
     print("Please input Licence Key")
     sleep(0.5)
 
